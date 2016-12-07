@@ -7,5 +7,4 @@ Tinder clone using Redux
 ```
 npm install
 npm start
-
 ```
