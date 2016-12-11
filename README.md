@@ -1,6 +1,6 @@
-# Redux Tinder Clone
+# Redux Application with React
 
-Tinder clone using Redux
+Uses React, Redux, and Redux-React to handle application state.
 
 # Getting Started
 
