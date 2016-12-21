@@ -8,3 +8,5 @@ Uses React, Redux, and Redux-React to handle application state.
 npm install
 npm start
 ```
+
+Click on book name to display information about the book!
